@@ -84,7 +84,16 @@ const data = [
 
     thirdParagraph: `Hodor hodor - hodor... Hodor hodor hodor hodor. Hodor. Hodor! Hodor hodor, hodor hodor hodor hodor hodor; hodor hodor? Hodor!
           Hodor hodor, HODOR hodor, hodor hodor?! Hodor! Hodor hodor, HODOR hodor, hodor hodor, hodor, hodor hodor. Hodor, hodor.
-          Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`
+          Hodor. Hodor, hodor, hodor. Hodor hodor... Hodor hodor hodor?! Hodor, hodor... Hodor hodor HODOR hodor, hodor hodor. Hodor.`,
+  },
+  {
+    title:'Lambda is cool',
+    date:'April 14, 2020',
+    firstParagraph:`Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur lorem donec massa sapien. Donec pretium vulputate sapien nec. Ornare arcu odio ut sem. Augue interdum velit euismod in pellentesque massa placerat. Feugiat in ante metus dictum at tempor commodo ullamcorper a. Ornare quam viverra orci sagittis eu. Pulvinar sapien et ligula ullamcorper. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum est. Gravida arcu ac tortor dignissim convallis aenean et. Sem nulla pharetra diam sit amet nisl.`,
+    
+    secondParagraph:`Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur lorem donec massa sapien. Donec pretium vulputate sapien nec. Ornare arcu odio ut sem. Augue interdum velit euismod in pellentesque massa placerat. Feugiat in ante metus dictum at tempor commodo ullamcorper a. Ornare quam viverra orci sagittis eu. Pulvinar sapien et ligula ullamcorper.`,
+
+    thirdParagraph:`Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Consectetur lorem donec massa sapien. Donec pretium vulputate sapien nec. Ornare arcu odio ut sem. Augue interdum velit euismod in pellentesque massa placerat. Feugiat in ante metus dictum at tempor commodo ullamcorper a. Ornare quam viverra orci sagittis eu. Pulvinar sapien et ligula ullamcorper.`
   }
 ];
 
