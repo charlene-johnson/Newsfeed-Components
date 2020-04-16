@@ -166,5 +166,5 @@ const articles = document.querySelector(".articles")
 
 data.forEach((dataObj) => {
   const dataComponent = articleComponentCreator(dataObj.title, dataObj.date, dataObj.firstParagraph, dataObj.secondParagraph, dataObj.thirdParagraph);
-  articles.appendChild(dataComponent)
+   articles.appendChild(dataComponent)
 })
